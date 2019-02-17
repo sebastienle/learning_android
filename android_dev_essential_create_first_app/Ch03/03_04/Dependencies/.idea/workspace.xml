@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e70a0c7c-6b70-4aa6-bb31-bd44bcfb703b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_01_HelloWorld/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_01_HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_appcompat_v7_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_design_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_recyclerview_v7_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_support_annotations_24_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_support_compat_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_support_core_ui_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_support_core_utils_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_support_fragment_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_support_media_compat_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_support_v4_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_support_vector_drawable_24_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_2_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_2_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_test_exposed_instrumentation_api_publish_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_test_rules_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_android_support_test_runner_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_01/ProjectStructure/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_01/ProjectStructure/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Ch02/02_02/HelloWorld/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_01/ProjectStructure/ProjectStructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_01/ProjectStructure/ProjectStructure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependencies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dependencies.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="511072972">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="2" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="2" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1137" />
+    <option name="y" value="140" />
+    <option name="width" value="1802" />
+    <option name="height" value="1076" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Dependencies" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Dependencies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dependencies" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Dependencies" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dependencies" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Dependencies" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../03_05/Permissions" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e70a0c7c-6b70-4aa6-bb31-bd44bcfb703b" name="Default Changelist" comment="" />
+      <created>1550360253396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550360253396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1137" y="140" width="1802" height="1076" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3295063" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32908705" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
