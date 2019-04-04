@@ -1,0 +1,4 @@
+#Sun Feb 17 15:21:10 EST 2019
+base.0=C\:\\Downloads\\learning_android\\android_dev_essential_create_first_app\\Ch04\\04_02\\Layouts\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

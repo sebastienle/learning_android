@@ -1,4 +1,0 @@
-#Sat Feb 16 22:58:30 EST 2019
-base.0=C\:\\Downloads\\learning_android\\android_dev_essential_create_first_app\\Ch03\\03_06\\LauncherIcon\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
-path.0=classes.dex
-renamed.0=classes.dex

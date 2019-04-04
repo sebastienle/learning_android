@@ -1,0 +1,4 @@
+#Sun Feb 17 15:33:45 EST 2019
+base.0=C\:\\Downloads\\learning_android\\android_dev_essential_create_first_app\\Ch04\\04_03\\Intents\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
