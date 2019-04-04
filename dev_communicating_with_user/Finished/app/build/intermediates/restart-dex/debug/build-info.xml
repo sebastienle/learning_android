@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="1477505701246631000"
+    token="-5150192358248745590" >
+
+    <task
+        name="javac"
+        duration="3742" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="441" />
+    <task
+        name="verifier"
+        duration="22" />
+
+    <artifact
+        location="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1477505701246631000" >
+        <artifact
+            location="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

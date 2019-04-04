@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d723f2d6a23d470799cfe48b71c92e89d1c4acf2">
+        <dex dex="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_542f56414a3d45971c736f744500adaea3a47c91/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ttruong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_64656ad1f5d3c2d0d051415de2bc9b1c6e3b6984/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_96172d32cce68b5af576b982753d809bfa982390/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_632cfcc871abc0614ac38aaaaf9a8fb357783164/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fdcac2525bb1b57cf74f81e6efe2f3a4d13a3999">
+        <dex dex="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a6ad103befd7dbd5146d7511d9efeb45155d00da/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_1864e8c508698a1906a24e710720ac7a6467a7a2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_57f9f9f6a73b1f2c43d15db67b35584c53742a0b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_f90cbff0ebc7d20d41f8b78016338bd24a76a27c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_0a36d4fac015fe2e8f6f8d4e27e4808e027a7a7a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/ttruong/Downloads/drive-download-20161026T175515Z/Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_b73ec4003ec9e75cd5a0bd0577456e5f49625f07/classes.dex" />
+    </item>
+
+</items>
