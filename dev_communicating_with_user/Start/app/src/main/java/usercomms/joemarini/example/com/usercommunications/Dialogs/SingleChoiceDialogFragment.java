@@ -21,7 +21,12 @@ public class SingleChoiceDialogFragment extends DialogFragment {
         builder.setTitle("What Is Your Favorite Color?");
 
         // TODO: The setItems function is used to create a list of content
-
+        builder.setItems(colors, new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                Log.i(TAG, String.format("Color chosen: %s", colors[which]));
+            }
+        });
 
         // Single-choice dialogs don't need buttons because they
         // auto-dismiss when the user makes a choice

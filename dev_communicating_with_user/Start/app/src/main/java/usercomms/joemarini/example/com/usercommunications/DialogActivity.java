@@ -14,7 +14,7 @@ import usercomms.joemarini.example.com.usercommunications.Dialogs.SingleChoiceDi
 import usercomms.joemarini.example.com.usercommunications.Dialogs.SimpleDialogFragment;
 
 public class DialogActivity extends AppCompatActivity
-    implements View.OnClickListener {
+    implements View.OnClickListener, SimpleDialogFragment.SimpleDiaglogListener {
 
     private final String TAG = "AUC_DLG_ACTIVITY";
     @Override
@@ -37,10 +37,20 @@ public class DialogActivity extends AppCompatActivity
                 break;
             case R.id.btnShowDatePicker:
                 // TODO: Get a calendar instance
+                Calendar cal = Calendar.getInstance();
 
                 // TODO: Create a DatePickerDialog
+                DatePickerDialog datePicker = new DatePickerDialog(this, new DatePickerDialog.OnDateSetListener() {
+                    @Override
+                    public void onDateSet(DatePicker view, int year, int month, int dayOfMonth) {
+                        Log.i(TAG, String.format("Date Chosen -- day: %d, month: %d, year: %d",
+                                dayOfMonth, month, year));
+                    }
+                }, cal.get(Calendar.YEAR), cal.get(Calendar.MONTH), cal.get(Calendar.DAY_OF_MONTH));
 
                 // TODO: Set the title and show the dialog
+                datePicker.setTitle("Choose a Date");
+                datePicker.show();
 
                 break;
             case R.id.btnShowChoiceDialog:
@@ -55,6 +65,7 @@ public class DialogActivity extends AppCompatActivity
     private void showSimpleDialog() {
         SimpleDialogFragment simpleDialog = new SimpleDialogFragment();
         // TODO: Use setCancelable() to make the dialog non-cancelable
+        simpleDialog.setCancelable(false);
         simpleDialog.show(getSupportFragmentManager(), "SimpleDialogFragment");
     }
 
@@ -66,6 +77,21 @@ public class DialogActivity extends AppCompatActivity
     private void showChoiceDialog() {
         SingleChoiceDialogFragment complexDialog = new SingleChoiceDialogFragment();
         complexDialog.show(getSupportFragmentManager(),"SingleChoiceDialogFragment");
+    }
+
+    @Override
+    public void onPositiveResult(DialogFragment dlg) {
+        Log.i(TAG, "Dialog Positive Result");
+    }
+
+    @Override
+    public void onNegativeResult(DialogFragment dlg) {
+        Log.i(TAG, "Dialog Negative Result");
+    }
+
+    @Override
+    public void onNeutralResult(DialogFragment dlg) {
+        Log.i(TAG, "Dialog Neutral Result");
     }
 
     //TODO: implement dialog listener interface functions

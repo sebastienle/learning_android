@@ -19,7 +19,8 @@ public class CustomDialogFragment extends DialogFragment {
         AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
 
         // TODO: Create the custom layout using the LayoutInflater class
-
+        LayoutInflater inflater = getActivity().getLayoutInflater();
+        View v = inflater.inflate(R.layout.custom_dialog_layout, null);
 
         // TODO: Build the dialog
         builder.setTitle("Please enter your name")
@@ -34,7 +35,7 @@ public class CustomDialogFragment extends DialogFragment {
                     public void onClick(DialogInterface dialog, int which) {
                         Log.i(TAG, "Cancel clicked");
                     }
-                });
+                }).setView(v);
 
         return builder.create();
     }
