@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.os.PersistableBundle
 import android.support.v7.app.AppCompatActivity
+import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.ArrayAdapter
@@ -50,6 +51,8 @@ class NoteActivity : AppCompatActivity() {
         if (mIsNewNote != null) {
             displayNote(mSpinnerCourses,mTextNoteText,mTextNoteTitle)
         }
+
+        Log.d(TAG, "onCreate")
     }
 
     private fun restoreOriginalNoteValues(savedInstanceState: Bundle) {
@@ -89,6 +92,7 @@ class NoteActivity : AppCompatActivity() {
         super.onPause()
         if (mIsCancelling == true) {
             // Remove the note we had created
+            Log.i(TAG, "Cancelling note at position $mNotePosition")
             if (mIsNewNote == true) {
                 DataManager.getInstance().removeNote(mNotePosition!!)
             } else {
@@ -97,6 +101,8 @@ class NoteActivity : AppCompatActivity() {
         } else {
             saveNote()
         }
+
+        Log.d(TAG, "onPause")
     }
 
     private fun storePreviousNoteValues() {
@@ -147,6 +153,7 @@ class NoteActivity : AppCompatActivity() {
         if (mIsNewNote == true) {
             createNewNote()
         } else {
+            Log.i(TAG, "mNotePosition: $position")
             mNote = DataManager.getInstance().notes[position]
         }
     }
@@ -163,5 +170,6 @@ class NoteActivity : AppCompatActivity() {
         const val ORIGINAL_NOTE_TITLE = "com.example.notekeeper.ORIGINAL_NOTE_TITLE"
         const val ORIGINAL_NOTE_TEXT = "com.example.notekeeper.ORIGINAL_NOTE_TEXT"
         const val POSITION_NOT_SET: Int = -1
+        private val TAG: String? = NoteActivity::class.simpleName
     }
 }
